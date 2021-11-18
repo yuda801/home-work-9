@@ -1,0 +1,15 @@
+html,
+body {
+    /* background-color: floralwhite; */
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin: auto;
+}
+
+.input {
+    flex: 1;
+}
